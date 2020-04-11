@@ -1,0 +1,16 @@
+[
+{
+  "modid": "typaswords",
+  "name": "Typa Swords",
+  "description": "typaswords is more than mod. Typaswords is love, is life.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mar4elkin"],
+  "credits": "The Forge and FML guyse",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

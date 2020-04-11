@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    " L ",
+    " D "
+  ],
+  "key": {
+    "L": {
+      "item": "typaswords:sukaingot"
+    },
+    "D": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "typaswords:ultimatesword",
+    "count": 1
+  }
+}
